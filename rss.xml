@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[2 Bedroom terraced house]]></title>
+        <description><![CDATA[2 Bedroom terraced house]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 08:05:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce3b9541-4990-46f5-82a2-ffcc4be29cc4.jpg">]]></description>
+            <link>undefined2-bedroom-terraced-house-located-between-cannes-and-antibes/index.html</link>
+            <guid isPermaLink="false">2e591dfb-2c60-4b62-b31c-bd454f421c98</guid>
+            <pubDate>Mon, 18 Jul 2016 08:05:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
